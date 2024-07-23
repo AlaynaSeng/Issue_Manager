@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+}
+
+hr{
+    top: 20px; 
+    border: none; 
+    height: 5px; 
+    background: black; 
+
+}
+
+#b{
+    font-weight: bold;
+    font-size: large;
+}
+
+
+#user, #password, #fn, #un, #em, #pw{
+    width: 500px;
+    height: 50px;
+    border: 0.5px solid rgb(116, 169, 212);
+    border-radius: 6px;
+    font-size: large;
+}
+
+#li, #reg{
+    background-color: teal;
+    border-radius: 10px;
+    color: white;
+    height: 90px;
+    width: 450px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#lock, #locked{
+    height: 30px;
+    width: 30px;
+}
+
+#welcome{
+    font-size: xxx-large;
+    font-family: monospace;
+}
+
+#ib{
+    background-color: aliceblue;
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 15px;
+}
+
+#sev, #des, #res{
+    width: 90%;
+
+}
+
+#add{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    width: 60px;
+    height: 35px;
+}
+
+#log{
+    font-size: large;
+    color: blue;
+}
